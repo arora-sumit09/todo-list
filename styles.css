@@ -126,6 +126,7 @@
     font-family: "Poppins", sans-serif;
     cursor: pointer;
     width: 12rem;
+    padding: 1rem;
   }
   /* Arrow */
   .select::after {
